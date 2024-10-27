@@ -8,6 +8,12 @@
 - ♨️linguagem pura como HTML, CSS E JS ...
 - https://portif-lio-ericgoncalves.onrender.com/ Para acessar
 - meu portfólio!👨‍💻🔱 ( ainda é a versão pré-alpha, por isso ainda está incompleto e pode apresentar alguns erros.)
+
+Os repositórios são protegidos por direitos autorais e não podem ser copiados ou reproduzido sem autorização. Todos os direitos reservados ao criador. Qualquer uso não autorizado é estritamente proibido.
+
+Eric Gonçalves.
+
+
   
 <!---
 EricRochaGoncalves/EricRochaGoncalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
