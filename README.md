@@ -1,5 +1,8 @@
 - 😃Olá, eu sou Eric Gonçalves!
-- 👨‍💻Sou um pré-desenvolvedor web apaixonado por tecnologia! ...
+Sou um pré-desenvolvedor apaixonado em busca de oportunidades como freelancer. Com experiência em habilidades como HTML, CSS, JavaScript e até mesmo banco de dados .Estou sempre em busca de novos desafios e projetos interessantes.
+
+Meu objetivo é ajudar empresas e indivíduos a transformar suas ideias em realidade, oferecendo soluções criativas e eficazes. Se você está procurando por alguém dedicado e com atenção aos detalhes, não hesite em entrar em contato!
+Sinta-se à vontade para explorar meus projetos e entrar em contato para discutir como posso contribuir para o seu próximo projeto.
 - ☕Curso técnico de informática para a internet! ...
 - 🔱Sempre a prioridade é evoluir...
 - 📲Pode entrar em contato comigo!!
