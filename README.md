@@ -1,26 +1,59 @@
- Olá, eu sou Eric Gonçalves! 😃
-
-Sou um desenvolvedor apaixonado em busca de oportunidades como freelancer. Com experiência em habilidades como HTML, CSS, JavaScript para o Front-end, estou sempre em busca de novos desafios e projetos interessantes.
-
-📍 Meu Objetivo;
-Meu objetivo é ajudar empresas e indivíduos a transformar suas ideias em realidade, oferecendo soluções criativas e eficazes. Se você está procurando por alguém dedicado e com atenção aos detalhes, não hesite em entrar em contato!
-
-Habilidades;
-- ☕ Curso técnico de Informática para a Internet
-- ♨️ Desenvolvimento prático e eficiente com linguagens como HTML, CSS e JavaScript
-para o desenvolvimento de sites e sistemas front-end.
-
-👨‍💻Portfólio;
-Sinta-se à vontade para explorar meus projetos e acessar meu portfólio em: (https://portif-lio-ericgoncalves.onrender.com/).
-
- Contato;
-📲 Pode entrar em contato comigo:
--Whatsapp: +55 13 99624-4152
-
-
-®️ Direitos Autorais.
-Os repositórios são protegidos por direitos autorais e não podem ser copiados ou reproduzidos sem autorização. Todos os direitos reservados ao criador. Qualquer uso não autorizado é estritamente proibido.
 
 ---
 
-Eric Gonçalves.
+👋Olá, sou Eric Gonçalves!
+
+Sou um desenvolvedor web em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, dedico-me a criar soluções front-end funcionais e esteticamente agradáveis. Estou constantemente buscando novos desafios e projetos que inspirem minha criatividade e aprimorem minhas habilidades.
+
+
+---
+
+📍 Objetivo
+
+Meu principal objetivo é colaborar com empresas e indivíduos para transformar ideias em soluções digitais reais. Ofereço serviços que combinam inovação, atenção aos detalhes e foco em resultados. Se você procura um profissional dedicado e comprometido, estou pronto para fazer parte do seu projeto.
+
+
+---
+
+🛠️ Habilidades Técnicas
+
+Formação: Curso Técnico em Informática para Internet.
+
+Desenvolvimento Web: Criação de sites e sistemas front-end utilizando:
+
+HTML5 para estruturação semântica.
+
+CSS3 para estilização moderna e responsiva.
+
+JavaScript para interatividade dinâmica e otimização de performance.
+
+
+
+
+---
+
+👨‍💻 Portfólio
+
+Explore meus projetos e conheça mais sobre meu trabalho:
+➡️ Acesse meu portfólio
+
+
+---
+
+📲 Contato
+
+Estou disponível para conversar e discutir novos projetos. Entre em contato comigo pelos canais abaixo:
+
+WhatsApp: +55 13 99624-4152
+
+
+
+---
+
+⚖️ Direitos Autorais
+
+Todos os repositórios e conteúdos disponibilizados neste perfil são protegidos por direitos autorais e não podem ser copiados ou reproduzidos sem minha autorização prévia.
+
+Eric Gonçalves
+"Desenvolvendo soluções inteligentes para um mundo digital."
+
