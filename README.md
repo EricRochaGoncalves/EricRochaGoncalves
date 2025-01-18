@@ -1,41 +1,41 @@
 
 ---
 
-👋Olá, sou Eric Gonçalves!
+👋 Olá, sou Eric Gonçalves!
 
-Sou um desenvolvedor web em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, dedico-me a criar soluções front-end funcionais e esteticamente agradáveis. Estou constantemente buscando novos desafios e projetos que inspirem minha criatividade e aprimorem minhas habilidades.
+Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, minha paixão é criar soluções visuais funcionais e esteticamente agradáveis. Meu foco está em construir interfaces de usuário (UI) intuitivas e responsivas, sempre com atenção aos detalhes para proporcionar a melhor experiência ao usuário (UX). Estou constantemente buscando novos desafios e projetos que estimulem minha criatividade e aprimorem minhas habilidades.
 
 
 ---
 
 📍 Objetivo
 
-Meu principal objetivo é colaborar com empresas e indivíduos para transformar ideias em soluções digitais reais. Ofereço serviços que combinam inovação, atenção aos detalhes e foco em resultados. Se você procura um profissional dedicado e comprometido, estou pronto para fazer parte do seu projeto.
+Meu principal objetivo é colaborar com empresas e indivíduos para transformar ideias em soluções digitais, focando 100% no desenvolvimento front-end. Ofereço serviços especializados em design de interfaces gráficas, animações interativas, responsividade e otimização de performance. Se você busca um profissional dedicado e comprometido com a estética e a usabilidade de seus projetos, estou pronto para fazer parte do seu time!
 
 
 ---
 
 🛠️ Habilidades Técnicas
 
-Formação: Curso Técnico em Informática para Internet.
+Formação: Curso Técnico em Informática para Internet
 
-Desenvolvimento Web: Criação de sites e sistemas front-end utilizando:
+Desenvolvimento Front-End: Criação de sites e sistemas front-end utilizando:
 
 HTML5 para estruturação semântica.
 
-CSS3 para estilização moderna e responsiva.
+CSS3 para estilização moderna, responsiva e design visual.
 
-JavaScript para interatividade dinâmica e otimização de performance.
+JavaScript para interatividade dinâmica, animações e otimização de performance.
 
 
+Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
 
 ---
 
 👨‍💻 Portfólio
 
-Explore meus projetos e conheça mais sobre meu trabalho:
-➡️ Acesse meu portfólio
+Explore meus projetos e conheça mais sobre o meu trabalho em front-end: ➡️ Acesse meu portfólio
 
 
 ---
@@ -55,26 +55,21 @@ WhatsApp: +55 13 99624-4152
 Todos os repositórios e conteúdos disponibilizados neste perfil são protegidos por direitos autorais e não podem ser copiados ou reproduzidos sem minha autorização prévia.
 
 Eric Gonçalves
-"Desenvolvendo soluções inteligentes para um mundo digital."
+"Desenvolvendo soluções visuais e funcionais para o mundo digital."
 
 
-Notas da atualização DEV III (3.0) - Janeiro de 2025
+---
 
-Melhoria na renderização gráfica:
-Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
+Notas da atualização ( Portfólio ) DEV III (3.0) - Janeiro de 2025.
 
-Melhoria na acessibilidade:
-Ajustes no design e no texto para garantir que qualquer pessoa consiga ler com clareza, incluindo usuários com dificuldades visuais.
+Melhorias na renderização gráfica: Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
 
-Mudanças na estilização geral:
-Alterações realizadas tanto para aprimorar a acessibilidade quanto para trazer maior formalidade ao site, deixando-o mais profissional e visualmente agradável.
+Melhoria na acessibilidade: Ajustes no design e no texto para garantir que qualquer pessoa consiga ler com clareza, incluindo usuários com dificuldades visuais.
 
-Aprimoramento do card inicial:
-Um guia detalhado foi adicionado para orientar o usuário de forma clara e objetiva, indicando onde ele deve ir para explorar o site.
+Mudanças na estilização geral: Alterações realizadas para aprimorar a acessibilidade e deixar o design mais profissional e visualmente agradável.
 
-Atualizações na página de habilidades (segunda página):
-Melhorias na estilização geral e na renderização gráfica, garantindo uma apresentação mais fluida e atrativa das informações.
+Aprimoramento do card inicial: Um guia detalhado foi adicionado para orientar o usuário de forma clara e objetiva, indicando onde ele deve ir para explorar o site.
 
-
+Atualizações na página de habilidades: Melhorias na estilização e na renderização gráfica, garantindo uma apresentação mais fluida e atrativa das informações.
 
 
