@@ -33,7 +33,7 @@ JavaScript para interatividade dinâmica, animações e otimização de performa
 
 Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
-# Algumas das minhas habilidades abaixo!
+# Algumas das minhas habilidades!
 
 
 <table>
@@ -89,8 +89,12 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 # ♨️ Portfólio
 
-Explore meus projetos e conheça mais sobre o meu trabalho em front-end: ➡️ Acesse meu portfólio através do link na página.
-
+Explore meus projetos e conheça mais sobre o meu trabalho em front-end: 
+<a href="https://portif-lio-ericgoncalves.onrender.com/" target="_blank">
+  <button style="background-color: rgba(0, 255, 0, 1); color: white; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">
+    Acessar Meu Portfólio
+  </button>
+</a>
 
 ---
 
