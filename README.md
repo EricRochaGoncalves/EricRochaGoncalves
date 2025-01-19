@@ -115,6 +115,8 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
 
 # 📲 Contato
 
+![Contato](https://img.shields.io/badge/Contato-1E90FF?style=for-the-badge&logo=contactless&logoColor=white)
+
 Estou disponível para conversar e discutir novos projetos. Entre em contato comigo pelos canais abaixo:
 
 WhatsApp: +55 13 99624-4152
