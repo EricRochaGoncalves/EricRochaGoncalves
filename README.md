@@ -81,7 +81,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   </tr>
   <tr>
     <td><strong>DEV Engine JS</strong></td>
-    <td>Motor de desenvolvimento em JavaScript, focado em oferecer funções JS para os desenvolvedores..</td>
+    <td>Biblioteca JavaScript, focado em oferecer funções JS para os desenvolvedores.</td>
     <td>Repositórios</td>
   </tr>
 </table>
