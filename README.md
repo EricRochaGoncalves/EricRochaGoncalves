@@ -113,6 +113,10 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
   </button>
 </a>
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 ---
 
