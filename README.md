@@ -34,6 +34,28 @@ JavaScript para interatividade dinâmica, animações e otimização de performa
 Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
 
+<table>
+  <tr>
+    <th>Habilidade</th>
+    <th>Nível</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><strong>HTML</strong></td>
+    <td>Avançado</td>
+    <td>Criação de estruturas, semântica e responsividade.</td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>Avançado</td>
+    <td>Estilização avançada, Flexbox, Grid, animações.</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>Avançado</td>
+    <td>Programação funcional, manipulação de DOM, ES6+.</td>
+  </tr>
+</table>
 ---
 # ♨️ Portfólio
 
