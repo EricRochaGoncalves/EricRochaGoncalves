@@ -58,6 +58,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
 </table>
+
 ---
 
 # Projetos relevantes!
