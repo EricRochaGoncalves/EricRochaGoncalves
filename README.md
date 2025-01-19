@@ -43,17 +43,17 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <th>Descrição</th>
   </tr>
   <tr>
-    <td><strong>HTML</strong></td>
+    <td><strong>&#60;HTML&#62;</strong></td>
     <td>Avançado</td>
     <td>Criação de estruturas, semântica e responsividade.</td>
   </tr>
   <tr>
-    <td><strong>CSS</strong></td>
+    <td><strong>&#123;CSS&#125;</strong></td>
     <td>Avançado</td>
     <td>Estilização avançada, Flexbox, Grid, animações.</td>
   </tr>
   <tr>
-    <td><strong>JavaScript</strong></td>
+    <td><strong>&#123;JavaScript&#125;</strong></td>
     <td>Avançado</td>
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
