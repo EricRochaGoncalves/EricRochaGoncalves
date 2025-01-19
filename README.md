@@ -33,6 +33,8 @@ JavaScript para interatividade dinâmica, animações e otimização de performa
 
 Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
+# Algumas das minhas habilidades abaixo!
+
 
 <table>
   <tr>
@@ -57,6 +59,34 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   </tr>
 </table>
 ---
+
+# Projetos relevantes!
+
+
+<table>
+  <tr>
+    <th>Projeto</th>
+    <th>Descrição</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Site do TCC</strong></td>
+    <td>Website desenvolvido para o meu TCC, com uma landing page interativa.</td>
+    <td><a href="https://link-do-site-do-tcc.com" target="_blank">Acessar</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfólio</strong></td>
+    <td>Meu portfólio profissional, mostrando meus trabalhos e projetos.</td>
+    <td><a href="https://portif-lio-ericgoncalves.onrender.com/" target="_blank">Acessar</a></td>
+  </tr>
+  <tr>
+    <td><strong>DEV Engine JS</strong></td>
+    <td>Motor de desenvolvimento em JavaScript, focado em cálculos avançados e funções matemáticas.</td>
+    <td><a href="https://link-do-dev-engine-js.com" target="_blank">Acessar</a></td>
+  </tr>
+</table>
+
+
 # ♨️ Portfólio
 
 Explore meus projetos e conheça mais sobre o meu trabalho em front-end: ➡️ Acesse meu portfólio através do link na página.
