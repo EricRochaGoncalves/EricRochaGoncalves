@@ -82,7 +82,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   <tr>
     <td><strong>DEV Engine JS</strong></td>
     <td>Motor de desenvolvimento em JavaScript, focado em cálculos avançados e funções matemáticas.</td>
-    <td><a href="https://link-do-dev-engine-js.com" target="_blank">Acessar</a></td>
+    <td><a href="https://github.com/EricRochaGoncalves/dev-engine-js.com" target="_blank">Acessar</a></td>
   </tr>
 </table>
 
