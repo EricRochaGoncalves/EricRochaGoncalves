@@ -127,6 +127,8 @@ WhatsApp: +55 13 99624-4152
 
 # ⚖️ Direitos Autorais
 
+![Direitos Autorais](https://img.shields.io/badge/Direitos%20Autorais-2F4F4F?style=for-the-badge&logo=copyright&logoColor=white)
+
 Todos os repositórios e conteúdos disponibilizados neste perfil são protegidos por direitos autorais e não podem ser copiados ou reproduzidos sem minha autorização prévia.
 
 Eric Gonçalves
