@@ -6,6 +6,8 @@
 
 ![Versão atualizada DEV III, de 2025. Todos os direitos reservados.](https://img.shields.io/badge/Vers%C3%A3o%20atualizada%20DEV%20III%2C%20de%202025.%20Todos%20os%20direitos%20reservados-gold?style=flat-square)
 
+
+![Versão atualizada DEV III, de 2025.](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es-FFD700?style=for-the-badge&logo=update&logoColor=black)
 # 👋 Olá, sou Eric Gonçalves!
 
 Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, minha paixão é criar soluções visuais funcionais e esteticamente agradáveis. Meu foco está em construir interfaces de usuário (UI) intuitivas e responsivas, sempre com atenção aos detalhes para proporcionar a melhor experiência ao usuário (UX). Estou constantemente buscando novos desafios e projetos que estimulem minha criatividade e aprimorem minhas habilidades.
