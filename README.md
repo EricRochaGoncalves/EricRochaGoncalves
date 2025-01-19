@@ -58,9 +58,11 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
 </table>
+
 ![HTML](https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 # Projetos relevantes!
