@@ -120,7 +120,7 @@ Eric Gonçalves
 
 ---
 
-# Notas da atualização ( Portfólio ) DEV III (3.0) - Janeiro de 2025.
+# Notas da atualização do portfólio DEV III (3.0) - Janeiro de 2025.
 
 Melhorias na renderização gráfica: Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
 
