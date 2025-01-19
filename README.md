@@ -96,11 +96,6 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
   </button>
 </a>
 
-<form action="https://portif-lio-ericgoncalves.onrender.com/" method="get" target="_blank">
-  <button type="submit" style="background-color: rgba(0, 255, 0, 1); color: white; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px;">
-    Acessar Meu Portfólio
-  </button>
-</form>
 
 ---
 
