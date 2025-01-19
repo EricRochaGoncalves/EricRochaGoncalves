@@ -72,7 +72,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   <tr>
     <td><strong>Site do TCC</strong></td>
     <td>Website desenvolvido para o meu TCC, com uma landing page interativa.</td>
-    <td><a href="https://link-do-site-do-tcc.com" target="_blank">Acessar</a></td>
+    <td><a href="https://entrega-tcc.onrender.com/    " target="_blank">Acessar</a></td>
   </tr>
   <tr>
     <td><strong>Portfólio</strong></td>
