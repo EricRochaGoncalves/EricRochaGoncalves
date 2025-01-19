@@ -1,21 +1,21 @@
 
 ---
 
-👋 Olá, sou Eric Gonçalves!
+#👋 Olá, sou Eric Gonçalves!
 
 Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, minha paixão é criar soluções visuais funcionais e esteticamente agradáveis. Meu foco está em construir interfaces de usuário (UI) intuitivas e responsivas, sempre com atenção aos detalhes para proporcionar a melhor experiência ao usuário (UX). Estou constantemente buscando novos desafios e projetos que estimulem minha criatividade e aprimorem minhas habilidades.
 
 
 ---
 
-📍 Objetivo
+#📍 Objetivo
 
 Meu principal objetivo é colaborar com empresas e indivíduos para transformar ideias em soluções digitais, focando 100% no desenvolvimento front-end. Ofereço serviços especializados em design de interfaces gráficas, animações interativas, responsividade e otimização de performance. Se você busca um profissional dedicado e comprometido com a estética e a usabilidade de seus projetos, estou pronto para fazer parte do seu time!
 
 
 ---
 
-🛠️ Habilidades Técnicas
+# 🛠️ Habilidades Técnicas
 
 Formação: Curso Técnico em Informática para Internet
 
@@ -32,15 +32,14 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 
 ---
+# ♨️ Portfólio
 
-👨‍💻 Portfólio
-
-Explore meus projetos e conheça mais sobre o meu trabalho em front-end: ➡️ Acesse meu portfólio
+Explore meus projetos e conheça mais sobre o meu trabalho em front-end: ➡️ Acesse meu portfólio através do link na página.
 
 
 ---
 
-📲 Contato
+# 📲 Contato
 
 Estou disponível para conversar e discutir novos projetos. Entre em contato comigo pelos canais abaixo:
 
@@ -50,7 +49,7 @@ WhatsApp: +55 13 99624-4152
 
 ---
 
-⚖️ Direitos Autorais
+# ⚖️ Direitos Autorais
 
 Todos os repositórios e conteúdos disponibilizados neste perfil são protegidos por direitos autorais e não podem ser copiados ou reproduzidos sem minha autorização prévia.
 
@@ -60,7 +59,7 @@ Eric Gonçalves
 
 ---
 
-Notas da atualização ( Portfólio ) DEV III (3.0) - Janeiro de 2025.
+# Notas da atualização ( Portfólio ) DEV III (3.0) - Janeiro de 2025.
 
 Melhorias na renderização gráfica: Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
 
