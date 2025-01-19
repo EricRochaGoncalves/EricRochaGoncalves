@@ -4,7 +4,7 @@
 
 ![Eric Gonçalves, desenvolvendo soluções](https://img.shields.io/badge/Eric%20Gon%C3%A7alves%2C%20desenvolvendo%20solu%C3%A7%C3%B5es-32CD32?style=for-the-badge&logo=developer&logoColor=white)
 
-[![Versão atualizada DEV III, de 2025.](https://img.shields.io/badge/Version-1.0.0-gold)](https://github.com/username/repository)
+![Versão atualizada DEV III, de 2025. Todos os direitos reservados](https://img.shields.io/badge/Vers%C3%A3o%20atualizada%20DEV%20III%2C%20de%202025.%20Todos%20os%20direitos%20reservados-gold)
 ---
 
 # 👋 Olá, sou Eric Gonçalves!
