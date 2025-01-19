@@ -68,6 +68,11 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   <tr>
     <th>Projeto</th>
     <th>Descrição</th>
+    <th>Links</th>
+
+
+
+
   </tr>
   <tr>
     <td><strong>Site do TCC</strong></td>
