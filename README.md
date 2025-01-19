@@ -95,10 +95,6 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   </tr>
 </table>
 
-[![TCC Site](https://img.shields.io/badge/Site%20do%20TCC-00008B?style=for-the-badge&logo=github&logoColor=white)](https://entrega-tcc.onrender.com/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)
-![DEV Engine JS](https://img.shields.io/badge/DEV%20Engine%20JS-FFA500?style=for-the-badge&logo=github&logoColor=white)
-
 [![TCC Site](https://img.shields.io/badge/Site%20do%20TCC-00008B?style=for-the-badge&logo=computer&logoColor=white)](https://entrega-tcc.onrender.com/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-32CD32?style=for-the-badge&logo=portfolio&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)
 ![DEV Engine JS](https://img.shields.io/badge/DEV%20Engine%20JS-FFA500?style=for-the-badge&logo=javascript&logoColor=black)
