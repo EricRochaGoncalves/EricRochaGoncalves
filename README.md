@@ -77,6 +77,21 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)
 ![Speedwork](https://img.shields.io/badge/Speedwork-4CAF50?style=flat-square&logo=javascript&logoColor=white)
 
+---
+
+# Skills de trabalho 
+
+![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-4CAF50?style=flat-square&logo=speech-bubble&logoColor=white)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-4CAF50?style=flat-square&logo=teamviewer&logoColor=white)
+![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-4CAF50?style=flat-square&logo=leadership&logoColor=white)
+![Criatividade](https://img.shields.io/badge/Criatividade-4CAF50?style=flat-square&logo=paintbrush&logoColor=white)
+![Gestão de Tempo](https://img.shields.io/badge/Gesta%C3%A3o%20de%20Tempo-4CAF50?style=flat-square&logo=clock&logoColor=white)
+![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-4CAF50?style=flat-square&logo=heart&logoColor=white)
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-4CAF50?style=flat-square&logo=book&logoColor=white)
+![Empatia](https://img.shields.io/badge/Empatia-4CAF50?style=flat-square&logo=handshake&logoColor=white)
+![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-4CAF50?style=flat-square&logo=gears&logoColor=white)
+![Organização](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-4CAF50?style=flat-square&logo=tasks&logoColor=white)
+
 
 # Projetos relevantes!
 
