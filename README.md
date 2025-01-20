@@ -12,6 +12,8 @@
 
 Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, minha paixão é criar soluções visuais funcionais e esteticamente agradáveis. Meu foco está em construir interfaces de usuário (UI) intuitivas e responsivas, sempre com atenção aos detalhes para proporcionar a melhor experiência ao usuário (UX). Estou constantemente buscando novos desafios e projetos que estimulem minha criatividade e aprimorem minhas habilidades.
 
+![Games](https://img.shields.io/badge/Games-008000?style=for-the-badge&logo=joystick&logoColor=white)
+
 
 ---
 
