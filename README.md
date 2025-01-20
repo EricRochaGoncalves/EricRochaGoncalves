@@ -45,7 +45,7 @@ JavaScript para interatividade dinâmica, animações e otimização de performa
 
 Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
-
+![Técnico em Informática para Internet](https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_para_Internet-003366?style=for-the-badge&logo=certificate&logoColor=white)
 ![Certified Web Developer](https://img.shields.io/badge/Certified%20Web%20Developer-1976D2?style=for-the-badge&logo=certification&logoColor=white)
 ![Técnico em Informática para Internet](https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_para_Internet-003366?style=for-the-badge&logo=python&logoColor=white)
 # Algumas das minhas habilidades!
