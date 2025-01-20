@@ -14,6 +14,13 @@ Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com s�
 
 ![Front-End Graphics Interfaces](https://img.shields.io/badge/Front--End%20Graphics%20Interfaces-008000?style=for-the-badge&logo=web&logoColor=white)
 
+![Web Sites Responsives](https://img.shields.io/badge/Web%20Sites%20Responsives-008000?style=for-the-badge&logo=responsive&logoColor=white)
+
+![Minigames](https://img.shields.io/badge/Minigames-008000?style=for-the-badge&logo=joystick&logoColor=white)
+
+![++](https://img.shields.io/badge/%2B%2B-008000?style=for-the-badge&logo=plus&logoColor=white)
+
+
 ---
 
 # 👨‍💻 Meu objetivo
