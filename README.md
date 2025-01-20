@@ -214,3 +214,7 @@ Eric Gonçalves
 4. Aprimoramento do card inicial: Um guia detalhado foi adicionado para orientar o usuário de forma clara e objetiva, indicando onde ele deve ir para explorar o site.
 
 5. Atualizações na página de habilidades: Melhorias na estilização e na renderização gráfica, garantindo uma apresentação mais fluida e atrativa das informações.
+
+![Renderização Gráfica](https://img.shields.io/badge/Renderiza%C3%A7%C3%A3o_Gra%CC%81fica-FFD700?style=for-the-badge&logo=graphic-design&logoColor=black) 
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-FFD700?style=for-the-badge&logo=wheelchair&logoColor=black)
+![Estilização](https://img.shields.io/badge/Estilizac%CC%A7a%CC%83o-FFD700?style=for-the-badge&logo=css3&logoColor=black)
