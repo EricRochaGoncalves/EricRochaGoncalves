@@ -109,15 +109,11 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <th>Projeto</th>
     <th>Descrição</th>
     <th>Links</th>
-
-
-
-
   </tr>
   <tr>
     <td><strong>Site do TCC</strong></td>
     <td>Website desenvolvido para o meu TCC, com uma landing page interativa.</td>
-    <td><a href="https://entrega-tcc.onrender.com/    " target="_blank">Acessar</a></td>
+    <td><a href="https://entrega-tcc.onrender.com/" target="_blank">Acessar</a></td>
   </tr>
   <tr>
     <td><strong>Portfólio</strong></td>
@@ -127,13 +123,27 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   <tr>
     <td><strong>DEV Engine JS</strong></td>
     <td>Biblioteca JavaScript, focada em oferecer funções JS para os desenvolvedores.</td>
-    <td>Repositórios</td>
+    <td><a href="#" target="_blank">Repositórios</a></td>
+  </tr>
+  <tr>
+    <td><strong>Jogo estilo Undertale</strong></td>
+    <td>Mini-jogo inspirado no estilo Undertale, com foco em batalha e interação.</td>
+    <td><a href="#" target="_blank">Acessar</a></td>
+  </tr>
+  <tr>
+    <td><strong>Jogo Quiz</strong></td>
+    <td>Jogo de perguntas e respostas, desenvolvido com foco educacional.</td>
+    <td><a href="#" target="_blank">Acessar</a></td>
   </tr>
 </table>
 
-[![TCC Site](https://img.shields.io/badge/Site%20do%20TCC-00008B?style=for-the-badge&logo=computer&logoColor=white)](https://entrega-tcc.onrender.com/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-32CD32?style=for-the-badge&logo=portfolio&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)
-![DEV Engine JS](https://img.shields.io/badge/DEV%20Engine%20JS-FFA500?style=for-the-badge&logo=javascript&logoColor=black)
+[![TCC Site](https://img.shields.io/badge/Site%20do%20TCC-00008B?style=for-the-badge&logo=computer&logoColor=white)](https://entrega-tcc.onrender.com/)  
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-32CD32?style=for-the-badge&logo=portfolio&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)  
+[![DEV Engine JS](https://img.shields.io/badge/DEV%20Engine%20JS-FFA500?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+[![Jogo estilo Undertale](https://img.shields.io/badge/Jogo%20estilo%20Undertale-000000?style=for-the-badge&logo=joystick&logoColor=white)](#)  
+[![Jogo Quiz](https://img.shields.io/badge/Jogo%20Quiz-FFFFFF?style=for-the-badge&logo=quizlet&logoColor=black)](#)
+
+
 
 
 
