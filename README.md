@@ -151,6 +151,10 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
  ![ON RENDER](https://img.shields.io/badge/ON_RENDER-003366?style=for-the-badge&logo=render&logoColor=white)
 
 ![Opera GX](https://img.shields.io/badge/Opera_GX-003366?style=for-the-badge&logo=opera&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-003366?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 # ♨️ Portfólio
