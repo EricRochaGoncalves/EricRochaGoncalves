@@ -101,7 +101,8 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![Empatia](https://img.shields.io/badge/Empatia-4CAF50?style=flat-square&logo=handshake&logoColor=white)
 ![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-4CAF50?style=flat-square&logo=gears&logoColor=white)
 ![Organização](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-4CAF50?style=flat-square&logo=tasks&logoColor=white)
-
+![Freelancer](https://img.shields.io/badge/Freelancer-FF8C00?style=for-the-badge&logo=briefcase&logoColor=white)
+![Código Limpo](https://img.shields.io/badge/C%C3%B3digo_Limpo-28A745?style=for-the-badge&logo=code&logoColor=white)
 # Minhas Skills Adicionais
 
 ![Edição de Imagens](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20Imagens-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
