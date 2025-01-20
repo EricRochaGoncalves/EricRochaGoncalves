@@ -14,6 +14,9 @@ Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com s√
 
 ![Games](https://img.shields.io/badge/Games-008000?style=for-the-badge&logo=joystick&logoColor=white)
 
+![PC](https://img.shields.io/badge/Computador-008000?style=for-the-badge&logo=computer&logoColor=white)
+
+![Tecnologia](https://img.shields.io/badge/Tecnologia-008000?style=for-the-badge&logo=tech&logoColor=white)
 
 ---
 
