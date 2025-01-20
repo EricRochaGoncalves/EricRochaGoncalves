@@ -12,7 +12,7 @@ Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com s�
 
 ---
 
-# 📍 Objetivo
+# Meu foco
 
 Meu principal objetivo é colaborar com empresas e indivíduos para transformar ideias em soluções digitais, focando 100% no desenvolvimento front-end. Ofereço serviços especializados em design de interfaces gráficas, animações interativas, responsividade e otimização de performance. Se você busca um profissional dedicado e comprometido com a estética e a usabilidade de seus projetos, estou pronto para fazer parte do seu time!
 
