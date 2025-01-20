@@ -69,6 +69,15 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 ---
 
+# Skills WEB
+
+![Responsividade](https://img.shields.io/badge/Responsividade-4CAF50?style=flat-square&logo=html5&logoColor=white)
+![Interfaces Gráficas](https://img.shields.io/badge/Interfaces%20Gr%C3%A1ficas-4CAF50?style=flat-square&logo=css3&logoColor=white)
+![Otimização Gráfica](https://img.shields.io/badge/Otimiza%C3%A7%C3%A3o%20Gr%C3%A1fica-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)
+![Speedwork](https://img.shields.io/badge/Speedwork-4CAF50?style=flat-square&logo=javascript&logoColor=white)
+
+
 # Projetos relevantes!
 
 
