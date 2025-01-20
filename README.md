@@ -112,6 +112,10 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![Gerenciamento de Projetos](https://img.shields.io/badge/Gerenciamento%20de%20Projetos-4CAF50?style=flat-square&logo=trello&logoColor=white)
 ![Atualizações Contínuas](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es%20Cont%C3%ADnuas-4CAF50?style=flat-square&logo=git&logoColor=white)
 
+# Skills de personalidade
+
+![Competição comigo mesmo](https://img.shields.io/badge/Competição_comigo_mesmo-28A745?style=for-the-badge&logo=medal&logoColor=white) ![Eu sou meu único concorrente](https://img.shields.io/badge/Eu_sou_meu_%C3%BAnico_concorrente-28A745?style=for-the-badge&logo=trophy&logoColor=white) ![Nasci para ser DEV](https://img.shields.io/badge/Nasci_para_ser_DEV-28A745?style=for-the-badge&logo=code&logoColor=white)
+
 # Projetos relevantes!
 
 
