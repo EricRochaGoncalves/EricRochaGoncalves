@@ -184,12 +184,12 @@ Eric Gonçalves
 
 ![Atualizações](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es-FFD700?style=for-the-badge&logo=update&logoColor=black)
 
-Melhorias na renderização gráfica: Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
+1. Melhorias na renderização gráfica: Otimizações implementadas para melhorar o carregamento do site, resultando em um aumento significativo no FPS e melhor experiência de navegação.
 
-Melhoria na acessibilidade: Ajustes no design e no texto para garantir que qualquer pessoa consiga ler com clareza, incluindo usuários com dificuldades visuais.
+2. Melhoria na acessibilidade: Ajustes no design e no texto para garantir que qualquer pessoa consiga ler com clareza, incluindo usuários com dificuldades visuais.
 
-Mudanças na estilização geral: Alterações realizadas para aprimorar a acessibilidade e deixar o design mais profissional e visualmente agradável.
+3. Mudanças na estilização geral: Alterações realizadas para aprimorar a acessibilidade e deixar o design mais profissional e visualmente agradável.
 
-Aprimoramento do card inicial: Um guia detalhado foi adicionado para orientar o usuário de forma clara e objetiva, indicando onde ele deve ir para explorar o site.
+4. Aprimoramento do card inicial: Um guia detalhado foi adicionado para orientar o usuário de forma clara e objetiva, indicando onde ele deve ir para explorar o site.
 
-Atualizações na página de habilidades: Melhorias na estilização e na renderização gráfica, garantindo uma apresentação mais fluida e atrativa das informações.
+5. Atualizações na página de habilidades: Melhorias na estilização e na renderização gráfica, garantindo uma apresentação mais fluida e atrativa das informações.
