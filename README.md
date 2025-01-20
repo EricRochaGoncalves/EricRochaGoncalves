@@ -95,6 +95,10 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 # Minhas Skills Adicionais
 
 ![Edição de Imagens](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20Imagens-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
+
+![Edição de Vídeo](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-4CAF50?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+
+
 ![Gerenciamento de Projetos](https://img.shields.io/badge/Gerenciamento%20de%20Projetos-4CAF50?style=flat-square&logo=trello&logoColor=white)
 ![Atualizações Contínuas](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es%20Cont%C3%ADnuas-4CAF50?style=flat-square&logo=git&logoColor=white)
 
