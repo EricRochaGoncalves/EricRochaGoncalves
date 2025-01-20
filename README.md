@@ -145,7 +145,10 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 # Ferramentas do desenvolvimento para WEB
 
-![VS CODE](https://img.shields.io/badge/VS_CODE-003366?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![ON RENDER](https://img.shields.io/badge/ON_RENDER-003366?style=for-the-badge&logo=render&logoColor=white)
+
+![VS CODE](https://img.shields.io/badge/VS_CODE-003366?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+ ![ON RENDER](https://img.shields.io/badge/ON_RENDER-003366?style=for-the-badge&logo=render&logoColor=white)
 
 ![Opera GX](https://img.shields.io/badge/Opera_GX-003366?style=for-the-badge&logo=opera&logoColor=white)
 ---
