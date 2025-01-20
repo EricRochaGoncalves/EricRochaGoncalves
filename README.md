@@ -4,9 +4,7 @@
 
 ![Eric Gonçalves, desenvolvendo soluções](https://img.shields.io/badge/Eric%20Gon%C3%A7alves%2C%20desenvolvendo%20solu%C3%A7%C3%B5es-32CD32?style=for-the-badge&logo=developer&logoColor=white)
 
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
-![JS Badge](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 
