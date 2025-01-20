@@ -120,6 +120,21 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=radical)
 
+import matplotlib.pyplot as plt
+
+# Dados das top linguagens e suas porcentagens
+languages = ['Python', 'JavaScript', 'HTML', 'CSS', 'Java']
+percentages = [40, 30, 15, 10, 5]
+
+
+plt.figure(figsize=(8, 8))
+plt.pie(percentages, labels=languages, autopct='%1.1f%%', startangle=90, colors=colors, textprops={'color': 'white'})
+plt.title('Top Linguagens de Programação', color='white', fontsize=16)
+
+
+plt.axis('equal')  
+plt.show()
+
 
 ---
 
