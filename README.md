@@ -46,7 +46,8 @@ JavaScript para interatividade dinâmica, animações e otimização de performa
 Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfase em design gráfico, acessibilidade e experiência do usuário (UX).
 
 ![Coded with Coffee](https://img.shields.io/badge/Coded%20with%20Coffee-6F4E37?style=for-the-badge&logo=coffee&logoColor=white)
-
+![Fast Learner](https://img.shields.io/badge/Fast%20Learner-FFC107?style=for-the-badge&logo=rocket&logoColor=black)
+![Certified Web Developer](https://img.shields.io/badge/Certified%20Web%20Developer-1976D2?style=for-the-badge&logo=certification&logoColor=white)
 # Algumas das minhas habilidades!
 
 
