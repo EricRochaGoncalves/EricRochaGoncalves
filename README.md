@@ -39,6 +39,8 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 # Algumas das minhas habilidades!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact)
+
 
 <table>
   <tr>
