@@ -82,41 +82,41 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 # Skills front-end
 
-![Responsividade](https://img.shields.io/badge/Responsividade-4CAF50?style=flat-square&logo=html5&logoColor=white)
-![Interfaces Gráficas](https://img.shields.io/badge/Interfaces%20Gr%C3%A1ficas-4CAF50?style=flat-square&logo=css3&logoColor=white)
-![Otimização Gráfica](https://img.shields.io/badge/Otimiza%C3%A7%C3%A3o%20Gr%C3%A1fica-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)
-![Speedwork](https://img.shields.io/badge/Speedwork-4CAF50?style=flat-square&logo=javascript&logoColor=white)
-![Facilidade com Códigos](https://img.shields.io/badge/Facilidade_com_C%C3%B3digos-28a745?style=for-the-badge&logo=code&logoColor=white)
+![Responsividade](https://img.shields.io/badge/Responsividade-008000?style=flat-square&logo=html5&logoColor=white)
+![Interfaces Gráficas](https://img.shields.io/badge/Interfaces%20Gr%C3%A1ficas-008000?style=flat-square&logo=css3&logoColor=white)
+![Otimização Gráfica](https://img.shields.io/badge/Otimiza%C3%A7%C3%A3o%20Gr%C3%A1fica-008000?style=flat-square&logo=photoshop&logoColor=white)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-008000?style=flat-square&logo=googlechrome&logoColor=white)
+![Speedwork](https://img.shields.io/badge/Speedwork-008000?style=flat-square&logo=javascript&logoColor=white)
+![Facilidade com Códigos](https://img.shields.io/badge/Facilidade_com_C%C3%B3digos-008000?style=for-the-badge&logo=code&logoColor=white)
 ![Velocidade](https://img.shields.io/badge/Velocidade-28a745?style=for-the-badge&logo=speedometer&logoColor=white)
 ---
 
 # Skills pessoais
 
-![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-4CAF50?style=flat-square&logo=speech-bubble&logoColor=white)
-![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-4CAF50?style=flat-square&logo=teamviewer&logoColor=white)
-![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-4CAF50?style=flat-square&logo=leadership&logoColor=white)
-![Criatividade](https://img.shields.io/badge/Criatividade-4CAF50?style=flat-square&logo=paintbrush&logoColor=white)
-![Gestão de Tempo](https://img.shields.io/badge/Gesta%C3%A3o%20de%20Tempo-4CAF50?style=flat-square&logo=clock&logoColor=white)
-![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-4CAF50?style=flat-square&logo=heart&logoColor=white)
-![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-4CAF50?style=flat-square&logo=book&logoColor=white)
-![Empatia](https://img.shields.io/badge/Empatia-4CAF50?style=flat-square&logo=handshake&logoColor=white)
-![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-4CAF50?style=flat-square&logo=gears&logoColor=white)
+![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-008000?style=flat-square&logo=speech-bubble&logoColor=white)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-008000?style=flat-square&logo=teamviewer&logoColor=white)
+![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-008000?style=flat-square&logo=leadership&logoColor=white)
+![Criatividade](https://img.shields.io/badge/Criatividade-008000?style=flat-square&logo=paintbrush&logoColor=white)
+![Gestão de Tempo](https://img.shields.io/badge/Gesta%C3%A3o%20de%20Tempo-008000?style=flat-square&logo=clock&logoColor=white)
+![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-008000?style=flat-square&logo=heart&logoColor=white)
+![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-C?style=flat-square&logo=book&logoColor=white)
+![Empatia](https://img.shields.io/badge/Empatia-008000?style=flat-square&logo=handshake&logoColor=white)
+![Resolução de Problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-008000?style=flat-square&logo=gears&logoColor=white)
 ![Organização](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-4CAF50?style=flat-square&logo=tasks&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-28A745?style=for-the-badge&logo=briefcase&logoColor=white)
+![Freelancer](https://img.shields.io/badge/Freelancer-008000?style=for-the-badge&logo=briefcase&logoColor=white)
 ![Código Limpo](https://img.shields.io/badge/C%C3%B3digo_Limpo-28A745?style=for-the-badge&logo=code&logoColor=white)
 # Minhas Skills Adicionais
 
-![Edição de Imagens](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20Imagens-4CAF50?style=flat-square&logo=photoshop&logoColor=white)
+![Edição de Imagens](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20Imagens-008000?style=flat-square&logo=photoshop&logoColor=white)
 
-![Edição de Vídeo](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-4CAF50?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Edição de Vídeo](https://img.shields.io/badge/Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-008000?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 
-![Gerenciamento de Projetos](https://img.shields.io/badge/Gerenciamento%20de%20Projetos-4CAF50?style=flat-square&logo=trello&logoColor=white)
-![Atualizações Contínuas](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es%20Cont%C3%ADnuas-4CAF50?style=flat-square&logo=git&logoColor=white)
+![Gerenciamento de Projetos](https://img.shields.io/badge/Gerenciamento%20de%20Projetos-008000?style=flat-square&logo=trello&logoColor=white)
+![Atualizações Contínuas](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es%20Cont%C3%ADnuas-008000?style=flat-square&logo=git&logoColor=white)
 
 # Skills de personalidade
 
-![Competição comigo mesmo](https://img.shields.io/badge/Competição_comigo_mesmo-28A745?style=for-the-badge&logo=medal&logoColor=white) ![Eu sou meu único concorrente](https://img.shields.io/badge/Eu_sou_meu_%C3%BAnico_concorrente-28A745?style=for-the-badge&logo=trophy&logoColor=white) ![Nasci para ser DEV](https://img.shields.io/badge/Nasci_para_ser_DEV-28A745?style=for-the-badge&logo=code&logoColor=white)
+![Competição comigo mesmo](https://img.shields.io/badge/Competição_comigo_mesmo-008000?style=for-the-badge&logo=medal&logoColor=white) ![Eu sou meu único concorrente](https://img.shields.io/badge/Eu_sou_meu_%C3%BAnico_concorrente-008000?style=for-the-badge&logo=trophy&logoColor=white) ![Nasci para ser DEV](https://img.shields.io/badge/Nasci_para_ser_DEV-008000?style=for-the-badge&logo=code&logoColor=white)
 
 # Projetos relevantes!
 
@@ -145,7 +145,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 </table>
 
 [![TCC Site](https://img.shields.io/badge/Site%20do%20TCC-00008B?style=for-the-badge&logo=computer&logoColor=white)](https://entrega-tcc.onrender.com/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-32CD32?style=for-the-badge&logo=portfolio&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-008000?style=for-the-badge&logo=portfolio&logoColor=white)](https://portif-lio-ericgoncalves.onrender.com/)
 ![DEV Engine JS](https://img.shields.io/badge/DEV%20Engine%20JS-FFA500?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
