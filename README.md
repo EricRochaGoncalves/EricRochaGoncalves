@@ -176,7 +176,10 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
 
 # GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark&bg_color=000000&title_color=ff66cc&text_color=ffffff&icon_color=00aaff)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=radical)
 
 ---
 
