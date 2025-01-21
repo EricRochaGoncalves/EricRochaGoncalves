@@ -225,3 +225,9 @@ Eric Gonçalves
 ![Renderização Gráfica](https://img.shields.io/badge/Renderiza%C3%A7%C3%A3o_Gra%CC%81fica-FFD700?style=for-the-badge&logo=graphic-design&logoColor=black) 
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-FFD700?style=for-the-badge&logo=wheelchair&logoColor=black)
 ![Estilização](https://img.shields.io/badge/Estilizac%CC%A7a%CC%83o-FFD700?style=for-the-badge&logo=css3&logoColor=black)
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
