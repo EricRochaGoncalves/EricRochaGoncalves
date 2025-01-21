@@ -17,6 +17,9 @@ Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com s√
 ![Responsive Web Sites](https://img.shields.io/badge/Responsive%20Web%20Sites-008000?style=for-the-badge&logo=web&logoColor=white)
 ![Minigames](https://img.shields.io/badge/Minigames-008000?style=for-the-badge&logo=joystick&logoColor=white)
 
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-008000?style=for-the-badge&logo=figma&logoColor=white) 
+![JavaScript Mastery](https://img.shields.io/badge/JavaScript%20Mastery-008000?style=for-the-badge&logo=javascript&logoColor=white)
+
 ![++](https://img.shields.io/badge/%2B%2B-008000?style=for-the-badge&logo=plus&logoColor=white)
 
 
