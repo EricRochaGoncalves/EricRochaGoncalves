@@ -88,7 +88,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-008000?style=flat-square&logo=googlechrome&logoColor=white)
 ![Speedwork](https://img.shields.io/badge/Speedwork-008000?style=flat-square&logo=javascript&logoColor=white)
 ![Facilidade com Códigos](https://img.shields.io/badge/Facilidade_com_C%C3%B3digos-008000?style=for-the-badge&logo=code&logoColor=white)
-![Velocidade](https://img.shields.io/badge/Velocidade-28a745?style=for-the-badge&logo=speedometer&logoColor=white)
+![Velocidade](https://img.shields.io/badge/Velocidade-008000?style=for-the-badge&logo=speedometer&logoColor=white)
 ---
 
 # Skills pessoais
