@@ -2,7 +2,7 @@
   <img src="https://private-user-images.githubusercontent.com/166281170/404688262-d94858e9-74e4-41ba-8612-73652cdbb91d.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczMTQxMDIsIm5iZiI6MTczNzMxMzgwMiwicGF0aCI6Ii8xNjYyODExNzAvNDA0Njg4MjYyLWQ5NDg1OGU5LTc0ZTQtNDFiYS04NjEyLTczNjUyY2RiYjkxZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExOVQxOTEwMDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmE2YTIxN2IwMzAzYTRhOTAwZWRhMzkyMWE2MDZiYmMwZDEwZDg1M2IwODVjNTY2MmY3NGI5NzQ3MjM3NGViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.QY8WEHtA_TLfeiDXJZhZHB_3vaLMgslTNVAjoqQLsBQ    " alt="Descrição da imagem" />
 </div>
 
-![Eric Gonçalves, desenvolvendo soluções](https://img.shields.io/badge/Eric%20Gon%C3%A7alves%2C%20desenvolvendo%20solu%C3%A7%C3%B5es-32CD32?style=for-the-badge&logo=developer&logoColor=white)
+![Eric Gonçalves, desenvolvendo soluções](https://img.shields.io/badge/Eric%20Gon%C3%A7alves%2C%20desenvolvendo%20solu%C3%A7%C3%B5es-008000?style=for-the-badge&logo=developer&logoColor=white)
 
 
 
