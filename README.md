@@ -230,4 +230,4 @@ Eric Gonçalves
 
 ---
 
-[Cananéia-São Paulo](https://www.google.com/maps?q=local+do+mapa)
+[Cananéia-São Paulo](https://www.google.com/maps?q=Cananéia+SãoPaulo+Brasil)
