@@ -165,7 +165,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![GitHub](https://img.shields.io/badge/GitHub-003366?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-# ♨️ Portfólio
+# ☕ Portfólio
 
 Explore meus projetos e conheça mais sobre o meu trabalho em front-end: 
 <a href="https://portif-lio-ericgoncalves.onrender.com/" target="_blank">
@@ -176,7 +176,7 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
 
 # GitHub Stats, Janeiro de 2025.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark&bg_color=000111&title_color=ff65cc&text_color=ffff&icon_color=00aaff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark&bg_color=11111&title_color=ff65cc&text_color=ffff&icon_color=00aaff)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=dark&langs_count=8)
