@@ -176,10 +176,10 @@ Explore meus projetos e conheça mais sobre o meu trabalho em front-end:
 
 # GitHub Stats, Janeiro de 2025.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark&bg_color=000011&title_color=ff65cc&text_color=ffff&icon_color=00aaff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=dark&bg_color=000111&title_color=ff65cc&text_color=ffff&icon_color=00aaff)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=dark&langs_count=11)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=dark&langs_count=8)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-003366?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
