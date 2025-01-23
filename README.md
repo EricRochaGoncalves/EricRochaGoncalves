@@ -125,7 +125,6 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 
 # Projetos relevantes!
 
-
 <table>
   <tr>
     <th>Projeto</th>
@@ -202,8 +201,6 @@ WhatsApp: +55 13 99624-4152
 # Me mande uma mensagem via email! 
 
 https://teste-de-email-formulario.onrender.com/
-
-
 
 ---
 
