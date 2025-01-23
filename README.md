@@ -81,8 +81,7 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![HTML](https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-4CAF50?style=flat-square&logo=java&logoColor=white)
-
+![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
