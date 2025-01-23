@@ -50,7 +50,6 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
 ![Técnico em Informática para Internet](https://img.shields.io/badge/T%C3%A9cnico_em_Inform%C3%A1tica_para_Internet-003366?style=for-the-badge&logo=certificate&logoColor=white)
 ![Certified Web Developer](https://img.shields.io/badge/Certified%20Web%20Developer-1976D2?style=for-the-badge&logo=certification&logoColor=white)
 
-
 <table>
   <tr>
     <th>Habilidade</th>
@@ -72,11 +71,18 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <td>Acima da média</td>
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
+  <tr>
+    <td><strong><i class="fa fa-java"></i> Java</strong></td>
+    <td>Acima da média</td>
+    <td>Essencial para o meu aprendizado, proporcionando uma sólida base de programação orientada a objetos.</td>
+  </tr>
 </table>
 
 ![HTML](https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-4CAF50?style=flat-square&logo=java&logoColor=white)
+
 
 ---
 
