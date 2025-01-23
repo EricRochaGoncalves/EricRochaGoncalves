@@ -212,6 +212,22 @@ Eric Gonçalves
 "Desenvolvendo soluções visuais e funcionais para o mundo digital."
 
 
+# Novo Projeto: Eric Gonçalves - Portfólio Internacional 🇺🇸
+
+🚀 **Estou empolgado em apresentar a versão internacional do meu portfólio!** 🌍
+
+Após a versão original em português, agora tenho o prazer de lançar uma versão **em inglês**, com uma nova paleta de cores e um design renovado. A cor **verde** forte foi trocada por um **azul escuro** impactante, mantendo a experiência visual moderna e profissional.
+
+## O que você vai encontrar:
+- **Idioma em inglês**: Todos os textos e títulos traduzidos.
+- **Novo design**: Troca do verde pelo sofisticado **azul escuro** para um visual mais profissional.
+- **Acessibilidade global**: A versão perfeita para um público internacional, com os mesmos projetos e conteúdo de alta qualidade.
+
+## Detalhes:
+- **Projetos** apresentados em inglês, prontos para serem explorados por uma audiência global.
+- **Design responsivo**, garantindo uma ótima experiência em qualquer dispositivo.
+- **Estrutura familiar** com ajustes visuais que destacam essa nova versão.
+
 ---
 # Notas da atualização DEV IV (4.0) - Janeiro de 2025.
 
