@@ -194,6 +194,10 @@ Estou disponível para conversar e discutir novos projetos. Entre em contato com
 
 WhatsApp: +55 13 99624-4152
 
+# Me mande uma mensagem via email! 
+
+https://teste-de-email-formulario.onrender.com/
+
 
 
 ---
@@ -209,6 +213,22 @@ Eric Gonçalves
 
 
 ---
+# Notas da atualização DEV IV (4.0) - Janeiro de 2025.
+
+1. Melhorias na estilização em geral.
+
+2. adição de um texto acima da sessão de habilidades na página inicial, que detalha bem minha aréa de atuação, como eu trabalho, para que servem as técnologias e quais eu uso.
+
+3. Adição de um guia abaixo dos cards para orientar o usuário de como navegar entre as páginas.
+
+4. Um botão que leva a uma página que possivel mandar mensagem para mim via email.
+
+5. Atualização na página de projetos, na qual foram adcionadas 3 micro-sessões (tabs) que mostram 5 dos meus projetos.
+
+6. melhorias na estilização geral da página de projetos.
+
+![Atualizações](https://img.shields.io/badge/Atualiza%C3%A7%C3%B5es-FFD700?style=for-the-badge&logo=update&logoColor=black)
+
 
 # Notas da atualização do portfólio DEV III (3.0) - Janeiro de 2025.
 
