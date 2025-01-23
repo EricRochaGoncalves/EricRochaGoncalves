@@ -58,22 +58,22 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   </tr>
   <tr>
     <td><strong><i class="fa fa-html5"></i> HTML</strong></td>
-    <td>Acima da média</td>
+    <td>Intermediário</td>
     <td>Criação de estruturas, semântica e responsividade.</td>
   </tr>
   <tr>
     <td><strong><i class="fa fa-css3"></i> CSS</strong></td>
-    <td>Acima da média</td>
+    <td>Intermediário</td>
     <td>Estilização avançada, Flexbox, Grid, animações.</td>
   </tr>
   <tr>
     <td><strong><i class="fa fa-js"></i> JavaScript</strong></td>
-    <td>Acima da média</td>
+    <td>Intermediário</td>
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
   <tr>
     <td><strong><i class="fa fa-java"></i> Java</strong></td>
-    <td>Acima da média</td>
+    <td>Básico</td>
     <td>Essencial para o meu aprendizado, proporcionando uma sólida base de programação orientada a objetos.</td>
   </tr>
 </table>
