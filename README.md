@@ -58,17 +58,17 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
   </tr>
   <tr>
     <td><strong><i class="fa fa-html5"></i> HTML</strong></td>
-    <td>Intermediário</td>
+    <td>Acima da Média</td>
     <td>Criação de estruturas, semântica e responsividade.</td>
   </tr>
   <tr>
     <td><strong><i class="fa fa-css3"></i> CSS</strong></td>
-    <td>Intermediário</td>
+    <td>Acima da Média</td>
     <td>Estilização avançada, Flexbox, Grid, animações.</td>
   </tr>
   <tr>
     <td><strong><i class="fa fa-js"></i> JavaScript</strong></td>
-    <td>Intermediário</td>
+    <td>Acima da Média</td>
     <td>Programação funcional, manipulação de DOM, ES6+.</td>
   </tr>
   <tr>
@@ -76,12 +76,24 @@ Meu trabalho é 100% focado em front-end, criando interfaces visuais, com ênfas
     <td>Básico</td>
     <td>Essencial para o meu aprendizado, proporcionando uma sólida base de programação orientada a objetos.</td>
   </tr>
+  <tr>
+    <td><strong><i class="fa fa-database"></i> MySQL</strong></td>
+    <td>Acima da Média</td>
+    <td>Criação e manipulação de bancos de dados relacionais, consultas SQL.</td>
+  </tr>
+  <tr>
+    <td><strong><i class="fa fa-code"></i> jQuery</strong></td>
+    <td>Acima da Média</td>
+    <td>Manipulação dinâmica de elementos, animações e interatividade com menos código.</td>
+  </tr>
 </table>
 
 ![HTML](https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-8B4513?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
 
