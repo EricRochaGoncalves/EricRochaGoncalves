@@ -189,7 +189,7 @@ Eric Gonçalves
 
 
 
-# Notas da atualização DEV IV (4.0) - Janeiro de 2025.
+# Notas da atualização do portfólio DEV IV (4.0) - Janeiro de 2025.
 
 1. Melhorias na estilização em geral.
 
