@@ -9,10 +9,10 @@
 
 # 👋 Olá, sou Eric Gonçalves! ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
-[HTML](https://img.icons8.com/color/48/000000/html-5.png) 
- ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![jQuery](https://img.icons8.com/color/48/000000/jquery.png) 
-
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![jQuery](https://img.icons8.com/color/48/000000/jquery.png)
 Sou um desenvolvedor front-end em busca de oportunidades como freelancer. Com sólida experiência em HTML, CSS e JavaScript, minha paixão é criar soluções visuais funcionais e esteticamente agradáveis. Meu foco está em construir interfaces de usuário (UI) intuitivas e responsivas, sempre com atenção aos detalhes para proporcionar a melhor experiência ao usuário (UX). Estou constantemente buscando novos desafios e projetos que estimulem minha criatividade e aprimorem minhas habilidades.
 
 ![Front-End Graphics Interfaces](https://img.shields.io/badge/Front--End%20Graphics%20Interfaces-008000?style=for-the-badge&logo=web&logoColor=white)
