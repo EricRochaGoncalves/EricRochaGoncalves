@@ -47,9 +47,9 @@ DEV Engine JS – Biblioteca JavaScript para desenvolvedores.
 🛠️ Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![On Render](https://img.shields.io/badge/On%20Render-2B2B2B?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D1F22?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![On Render](https://img.shields.io/badge/On%20Render-2E2E2E?style=for-the-badge&logo=render&logoColor=white)
 
 
 
