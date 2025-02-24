@@ -4,6 +4,8 @@
 
 👋 Olá, sou Eric Gonçalves!
 
+ericrochagoncalves59@gmail.com
+
 Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
@@ -64,5 +66,4 @@ Explore mais sobre meu trabalho em front-end no meu Portfólio.
 
 ---
 
-Esse formato é bem mais direto, com foco nas informações essenciais.
 
