@@ -2,7 +2,7 @@
 
 ---
 
-👋 Olá, sou Eric Gonçalves!
+👋 Hello, i am Eric Gonçalves!!
 
 ericrochagoncalves59@gmail.com
 
