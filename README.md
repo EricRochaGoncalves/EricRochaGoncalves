@@ -67,5 +67,5 @@ Explore mais sobre meu trabalho em front-end no meu Portfólio.
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username={EricGoncalves}&show_icons=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={Eric Gonçalves}&show_icons=true&hide=prs)
 
