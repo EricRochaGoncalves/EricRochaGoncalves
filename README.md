@@ -4,7 +4,7 @@
 
 👋 Hello, i am Eric Gonçalves!!
 
-ericrochagoncalves59@gmail.com
+E-mail: ericrochagoncalves59@gmail.com
 
 Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
 
@@ -66,4 +66,6 @@ Explore mais sobre meu trabalho em front-end no meu Portfólio.
 
 ---
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={usuário}&show_icons=true&hide=prs)
 
