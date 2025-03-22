@@ -1,8 +1,5 @@
 
-
----
-
-#👋 Hello, i am Eric Gonçalves!!
+# 👋 Hello, i am Eric Gonçalves!!
 
 E-mail: ericrochagoncalves59@gmail.com
 
