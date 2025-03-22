@@ -39,6 +39,8 @@ Ofereço meus serviços como freelancer para empresas e indivíduos, criando sol
 
 Site do TCC – Landing page interativa.
 
+Mathrionette - Calculadora de funções de primeiro, segundo e terceiro grau.
+
 Portfólio – Meu portfólio com projetos e experiências.
 
 DEV Engine JS – Biblioteca JavaScript para desenvolvedores.
