@@ -19,7 +19,7 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 ![On Render](https://img.shields.io/badge/On%20Render-2E2E2E?style=for-the-badge&logo=render&logoColor=white)
 
 
-
+[![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=profRobsonPMartins&show_icons=true&theme=vision-friendly-dark)](https://github.com/EricRochaGoncalves)
 
 
 ---
