@@ -21,6 +21,7 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 
 [![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=vision-friendly-dark)](https://github.com/EricRochaGoncalves)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=radical)
 ## Visite meu portfólio
 
 Você pode acessar meu portfólio para ver mais dos meus projetos e habilidades:
