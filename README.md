@@ -10,6 +10,7 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 [![HTML](https://img.shields.io/badge/HTML-5-blue?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Ferramentas
 
@@ -18,7 +19,6 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![On Render](https://img.shields.io/badge/On%20Render-2E2E2E?style=for-the-badge&logo=render&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=vision-friendly-dark)](https://github.com/EricRochaGoncalves)
 
