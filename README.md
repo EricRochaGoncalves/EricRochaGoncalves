@@ -3,9 +3,11 @@
 
 E-mail: ericrochagoncalves59@gmail.com
 
-<a href="https://github.com/EricRochaGoncalves?tab=repositories">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="100" alt="Capturando repositórios..."/>
-</a>
+<p align="center">
+  <a href="https://github.com/EricRochaGoncalves?tab=repositories">
+    <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="100" alt="Capturando repositórios..."/>
+  </a>
+</p>
 
 Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
 
