@@ -5,10 +5,9 @@ E-mail: ericrochagoncalves59@gmail.com
 
 <p align="center">
   <a href="https://github.com/EricRochaGoncalves?tab=repositories">
-    <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pokeball.gif" width="100" alt="Capturando repositórios..."/>
+    <img src="https://media.tenor.com/n0zRZqbKkd0AAAAi/pokeball-rotate.gif" width="100" alt="Capturando repositórios..."/>
   </a>
 </p>
-
 Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
 
 # Minhas principais tecnologias acadêmicas
