@@ -1,6 +1,6 @@
 
 # 👋 Hello, i am Eric Gonçalves!!
-
+![Pokébola](https://img.shields.io/badge/Pok%C3%A9bola-Treinador%20GitHub-red?style=for-the-badge&logo=pokemon&logoColor=white)
 E-mail: ericrochagoncalves59@gmail.com
 
 Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
