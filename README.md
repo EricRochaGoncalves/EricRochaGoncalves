@@ -26,6 +26,7 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 
 
 ![Repositórios públicos](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&count_private=false&show_icons=true&hide=prs,issues,contribs&custom_title=Total%20de%20Reposit%C3%B3rios%20P%C3%BAblicos%20-%20Pok%C3%A9Dex%20do%20GitHub&theme=radical)
+
 ## Visite meu portfólio
 
 Você pode acessar meu portfólio para ver mais dos meus projetos e habilidades:
