@@ -42,8 +42,7 @@ JavaScript: Interatividade e animações dinâmicas.
 
 Responsividade: Sites adaptáveis a qualquer dispositivo.
 
-UI/UX: Foco em design gráfico e experiência do usuário.
-
+My SQL: Banco de dados otimizados.
 
 
 ---
