@@ -5,7 +5,7 @@ E-mail: ericrochagoncalves59@gmail.com
 
 <p align="center">
   <a href="https://github.com/EricRochaGoncalves?tab=repositories">
-    <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="100" alt="Capturando repositórios..."/>
+    <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pokeball.gif" width="100" alt="Capturando repositórios..."/>
   </a>
 </p>
 
