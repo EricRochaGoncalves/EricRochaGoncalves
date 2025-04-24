@@ -31,7 +31,7 @@ Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcion
 
 Você pode acessar meu portfólio para ver mais dos meus projetos e habilidades:
 
-[Portfólio - Eric Gonçalves](https://portif-lio-ericgoncalves.onrender.com/)
+[Portfólio - Eric Gonçalves](https://my-developer-portfolio.onrender.com)
 
 
 ---
