@@ -1,15 +1,16 @@
-<h1 align="center"> Sorria... Você está sendo hackeado! </h1>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Terminal Hacker">
+  <img src="https://i.pinimg.com/originals/70/e7/65/70e7651293647698cdf1780cc4865c0b.gif" width="200" alt="Terminal Hacker">
 </p>
+<h1 align="center"> Hello Word, i am Eric Gonçalves.... </h1>
+
 
 <p align="center">
-  <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
+  
   Desenvolvedor Front-End especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
+  <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
 </p>
-
----
 
 <h2 align="center">🟢 Tecnologias que mais ultilizo</h2>
 
@@ -21,8 +22,6 @@
   <img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
----
-
 <h2 align="center">🛠️ Ferramentas em campo</h2>
 
 <p align="center">
@@ -32,8 +31,6 @@
   <img src="https://img.shields.io/badge/Render-00FF7F?style=for-the-badge&logo=render&logoColor=black">
 </p>
 
----
-
 <h2 align="center">📚 Bibliotecas e Frameworks</h2>
 
 <p align="center">
@@ -41,16 +38,12 @@
   <img src="https://img.shields.io/badge/Sequelize-2E8B57?style=for-the-badge&logo=sequelize&logoColor=white">
 </p>
 
----
-
 <h2 align="center">💻 Outras Tecnologias que eu tenho conhecimento</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
-
----
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -60,23 +53,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=chartreuse-dark">
 </p>
 
----
-
 <h2 align="center">🌐 Meu Portfólio</h2>
 
 <p align="center">
   <a href="https://portif-lio-ericgoncalves.onrender.com"><strong>🔗 Clique aqui para acessar</strong></a>
 </p>
 
----
-
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
   Ofereço serviços como freelancer para empresas e pessoas físicas, entregando códigos <strong>visuais, leves e brutais</strong> no Front-End.
 </p>
-
----
 
 <h2 align="center">💼 Projetos Relevantes</h2>
 
@@ -86,7 +73,5 @@
   <li><strong>Site do TCC:</strong> Landing page interativa com foco em experiência de usuário.</li>
   <li><strong>Portfólio Pessoal:</strong> Apresentação de habilidades e projetos.</li>
 </ul>
-
----
 
 <p align="center"><i>O front-end é minha espada. O JavaScript é meu campo de batalha. E eu... sou o dev que vai reescrever sua web.</i></p>
