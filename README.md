@@ -9,6 +9,7 @@
 <p align="center">
   
   Desenvolvedor Front-End especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
+  
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
 </p>
 
