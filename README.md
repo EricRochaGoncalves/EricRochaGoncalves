@@ -1,97 +1,92 @@
+<h1 align="center"> Sorria... Você está sendo hackeado! </h1>
 
-# 👋 Hello, i am Eric Gonçalves!!
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Terminal Hacker">
+</p>
 
-E-mail: ericrochagoncalves59@gmail.com
-
-
-Sou um desenvolvedor front-end apaixonado por criar soluções visuais e funcionais usando HTML, CSS e JavaScript. Busco sempre oferecer interfaces intuitivas, responsivas e otimizadas para uma experiência de usuário impecável.
-
-# 🚀 Minhas principais tecnologias que tenho domínio
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-# 🛠️ Ferramentas
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com/)
-
-# 📚 Bibliotecas de desenvolvimento
-
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
-
-# 🔧 Tecnologias que tenho conhecimento
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-
-
-
-
-
-
-
-[![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=vision-friendly-dark)](https://github.com/EricRochaGoncalves)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=radical)
-
-
-
-## Visite meu portfólio
-
-Você pode acessar meu portfólio para ver mais dos meus projetos e habilidades:
-
-[Portfólio - Eric Gonçalves](https://my-developer-portfolio.onrender.com)
-
+<p align="center">
+  <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
+  Desenvolvedor Front-End especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
+</p>
 
 ---
 
-🛠️ Habilidades
+<h2 align="center">🟢 Tecnologias que mais ultilizo</h2>
 
-HTML5: Estruturação semântica.
-
-CSS3: Design moderno e responsivo.
-
-JavaScript: Interatividade e animações dinâmicas.
-
-Responsividade: Sites adaptáveis a qualquer dispositivo.
-
-My SQL: Banco de dados otimizados.
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-228B22?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-006400?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-32CD32?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-2E8B57?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
 
 ---
 
-🎯 Objetivo
+<h2 align="center">🛠️ Ferramentas em campo</h2>
 
-Ofereço meus serviços como freelancer para empresas e indivíduos, criando soluções front-end que combinam estética e usabilidade.
-
-
----
-
-💼 Projetos Relevantes
-
-Site do TCC – Landing page interativa.
-
-Mathrionette - Calculadora de funções de primeiro, segundo e terceiro grau.
-
-Portfólio – Meu portfólio com projetos e experiências.
-
-DEV Engine JS – Biblioteca JavaScript para desenvolvedores.
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-228B22?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-006400?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-00FF7F?style=for-the-badge&logo=render&logoColor=black">
+</p>
 
 ---
 
-Explore mais sobre meu trabalho em front-end no meu Portfólio.
+<h2 align="center">📚 Bibliotecas e Frameworks</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-228B22?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Sequelize-2E8B57?style=for-the-badge&logo=sequelize&logoColor=white">
+</p>
 
 ---
 
+<h2 align="center">💻 Outras Tecnologias que eu tenho conhecimento</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
 
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=chartreuse-dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=chartreuse-dark">
+</p>
+
+---
+
+<h2 align="center">🌐 Meu Portfólio</h2>
+
+<p align="center">
+  <a href="https://portif-lio-ericgoncalves.onrender.com"><strong>🔗 Clique aqui para acessar</strong></a>
+</p>
+
+---
+
+<h2 align="center">🎯 Objetivo</h2>
+
+<p align="center">
+  Ofereço serviços como freelancer para empresas e pessoas físicas, entregando códigos <strong>visuais, leves e brutais</strong> no Front-End.
+</p>
+
+---
+
+<h2 align="center">💼 Projetos Relevantes</h2>
+
+<ul align="center">
+  <li><strong>Mathrionette:</strong> Calculadora de funções de 1º, 2º e 3º grau.</li>
+  <li><strong>DEV Engine JS:</strong> Biblioteca JavaScript customizada para desenvolvedores.</li>
+  <li><strong>Site do TCC:</strong> Landing page interativa com foco em experiência de usuário.</li>
+  <li><strong>Portfólio Pessoal:</strong> Apresentação de habilidades e projetos.</li>
+</ul>
+
+---
+
+<p align="center"><i>O front-end é minha espada. O JavaScript é meu campo de batalha. E eu... sou o dev que vai reescrever sua web.</i></p>
