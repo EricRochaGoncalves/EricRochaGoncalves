@@ -11,7 +11,7 @@
   Desenvolvedor Front-End especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
   
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
-  <strong>Linkedin: www.linkedin.com/in/eric-rocha-goncalves-developer </strong>
+  <strong>Linkedin: www.linkedin.com/in/eric-rocha-goncalves-developer </strong> <br>
   <strong>Portfólio: https://my-developer-portfolio.onrender.com/</strong>
 </p>
 
