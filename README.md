@@ -48,6 +48,13 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=chartreuse-dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=chartreuse-dark">
+</p>
+
+
 
 <h2 align="center">🌐 Meu Portfólio</h2>
 
