@@ -1,9 +1,7 @@
 
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/70/e7/65/70e7651293647698cdf1780cc4865c0b.gif" width="200" alt="Terminal Hacker">
-</p>
-<h1 align="center"> Hello Word, i am Eric Gonçalves.... </h1>
+
+<h1 align="center"> Eric R. Gonçalves </h1>
 
 
 <p align="center">
