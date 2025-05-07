@@ -42,7 +42,7 @@
 <h2 align="center">💻 Outras Tecnologias que eu tenho conhecimento</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-32CD32?style=for-the-badge&logo=c-sharp&logoColor=white">
+ 
   <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
