@@ -11,7 +11,7 @@
 
 <p align="center">
   
-  Desenvolvedor Front-End especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
+  Olá mundo! eu sou o Eric, especialista em criar <strong>interfaces visuais poderosas</strong> com foco em performance, acessibilidade e estilo.
   
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
   <strong>Linkedin: www.linkedin.com/in/eric-rocha-goncalves-developer </strong> <br>
@@ -53,11 +53,13 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricRochaGoncalves&show_icons=true&theme=chartreuse-dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRochaGoncalves&layout=compact&theme=chartreuse-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricRochaGoncalves&layout=compact&langs_count=10&theme=dark&hide_border=false&card_width=350" />
 </p>
+
+
+
 
 
 
