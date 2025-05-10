@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> Eric R. Gonçalves </h1>
+ <h1 align="center"> Eric R. Gonçalves </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End;tecnologia+e+inovação;Sempre+em+busca+de+novos+desafios&color=FFFFFF" />
