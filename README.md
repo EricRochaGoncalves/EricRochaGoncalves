@@ -49,6 +49,8 @@
 <p align="center">
  
   <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
