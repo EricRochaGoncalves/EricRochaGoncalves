@@ -18,39 +18,39 @@
   <strong>Portfólio: https://my-developer-portfolio.onrender.com/</strong>
 </p>
 
-<h2 align="center">🟢 Tecnologias que mais ultilizo</h2>
+<h2 align="center">🟢 Tecnologias que mais utilizo</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-228B22?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-006400?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-32CD32?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-2E8B57?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 </p>
 
 <h2 align="center">🛠️ Ferramentas em campo</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-228B22?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-006400?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/Render-00FF7F?style=for-the-badge&logo=render&logoColor=black">
 </p>
+
 
 <h2 align="center">📚 Bibliotecas e Frameworks</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Express.js-228B22?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Sequelize-2E8B57?style=for-the-badge&logo=sequelize&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40"/>
 </p>
+
 
 <h2 align="center">💻 Outras Tecnologias que eu tenho conhecimento</h2>
 
 <p align="center">
- 
-  <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
