@@ -88,4 +88,29 @@
   <li><strong>Portfólio Pessoal:</strong> Apresentação de habilidades e projetos.</li>
 </ul>
 
+## 📌 Notas das Atualizações – Maio de 2025
+
+🧠 **Back-end**
+- Obtive conhecimento sólido em **Node.js**, o que me proporcionou uma melhoria notável no meu JavaScript.
+- Estou avançando de forma consistente em **Java**, com foco em **Orientação a Objetos**, **classes**, **métodos** e estrutura modular.
+- Evoluí no uso de **PHP**, o que me permite integrá-lo eficientemente com **HTML**, **CSS** e **JavaScript** para criar aplicações web completas.
+
+🎨 **Front-end**
+- Aprimorei ainda mais meu domínio em **HTML**, **CSS** e **JavaScript**, com reflexos claros em projetos como:
+  - Meu portfólio profissional
+  - Jogos interativos
+  - Aplicações front-end úteis e responsivas
+
+🗄️ **Banco de Dados**
+- Refinei meu conhecimento em **MySQL**, otimizando consultas, modelagem e integração com aplicações back-end.
+
+## 🧰 Bibliotecas e Ferramentas Utilizadas
+
+📦 **Back-end & Banco de Dados**
+- **Express.js** – Utilizado para estruturar aplicações back-end em **Node.js** de forma rápida e organizada.
+- **Sequelize** – ORM poderoso que facilita a integração com **MySQL**, permitindo trabalhar com banco de dados de maneira orientada a objetos.
+
+📦 **Servidor PHP**
+- **Dockerfile** – Configuração de ambiente containerizado para rodar aplicações em **PHP**, facilitando deploy e testes locais com consistência de ambiente.
+
 <p align="center"><i>O front-end é minha espada. O JavaScript é meu campo de batalha. E eu... sou o dev que vai reescrever sua web.</i></p>
