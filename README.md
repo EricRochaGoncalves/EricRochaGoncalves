@@ -104,6 +104,12 @@
 🗄️ **Banco de Dados**
 - Refinei meu conhecimento em **MySQL**, otimizando consultas, modelagem e integração com aplicações back-end.
 
+## ⚡ Diferencial
+
+🌀 **TypeScript** – Linguagem com tipagem estática que amplia os recursos do JavaScript, trazendo mais segurança, organização e legibilidade para projetos tanto **front-end quanto back-end**.  
+Atualmente, utilizo TypeScript em projetos onde a escalabilidade, manutenibilidade e previsibilidade de tipos fazem diferença.
+
+
 ## 🧰 Bibliotecas e Ferramentas Utilizadas
 
 📦 **Back-end & Banco de Dados**
