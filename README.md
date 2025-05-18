@@ -78,7 +78,7 @@
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
-  Ofereço serviços como freelancer para empresas e pessoas físicas, entregando códigos <strong>visuais, leves e brutais</strong> no Front-End.
+  Ofereço serviços como freelancer para empresas e pessoas físicas, entregando códigos <strong>visuais, leves e brutais</strong> no Front-End e Back-end.
 </p>
 
 <h2 align="center">💼 Projetos Relevantes</h2>
