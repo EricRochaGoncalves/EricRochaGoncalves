@@ -1,7 +1,7 @@
 
 
 
- <h1 align="center"> Eric R. Gonçalves </h1>
+ <h1 align="center"> Eric R. Gonçalves, software developer </h1>
 
 <p align="center">
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
@@ -112,4 +112,3 @@ Atualmente, utilizo TypeScript em projetos onde a escalabilidade, manutenibilida
 📦 **Servidor PHP**
 - **Dockerfile** – Configuração de ambiente containerizado para rodar aplicações em **PHP**, facilitando deploy e testes locais com consistência de ambiente.
 
-<p align="center"><i>O front-end é minha espada. O JavaScript é meu campo de batalha. E eu... sou o dev que vai reescrever sua web.</i></p>
