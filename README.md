@@ -3,15 +3,15 @@
 
  <h1 align="center"> Eric R. Gonçalves, software developer </h1>
 
-<p align="center">
+<p align="start">
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
   <strong>Linkedin: www.linkedin.com/in/eric-rocha-goncalves-developer </strong> <br>
   <strong>Portfólio: https://my-developer-portfolio.onrender.com/</strong>
 </p>
 
-<h2 align="center">🟢 Tecnologias que mais utilizo</h2>
+<h2 align="start">🟢 Tecnologias que mais utilizo</h2>
 
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -22,9 +22,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
-<h2 align="center">🛠️ Ferramentas em campo</h2>
+<h2 align="start">🛠️ Ferramentas em campo</h2>
 
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
@@ -32,9 +32,9 @@
 </p>
 
 
-<h2 align="center">📚 Bibliotecas e Frameworks</h2>
+<h2 align="start">📚 Bibliotecas e Frameworks</h2>
 
-<p align="center">
+<p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: brightness(0) invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40"/>
 
@@ -42,16 +42,18 @@
 </p>
 
 
-<h2 align="center">💻 Outras Tecnologias que eu tenho conhecimento sólido</h2>
+<h2 align="start">💻 Outras Tecnologias que eu tenho conhecimento sólido</h2>
 
-<p align="center">
+<p align="start">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="start">📈 GitHub Stats</h2>
 
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricRochaGoncalves&layout=compact&langs_count=10&theme=dark&hide_border=false&card_width=465" />
 </p>
 
@@ -60,21 +62,21 @@
 
 
 
-<h2 align="center">🌐 Meu Portfólio</h2>
+<h2 align="start">🌐 Meu Portfólio</h2>
 
-<p align="center">
+<p align="start">
   <a href="https://my-developer-portfolio.onrender.com"><strong>🔗 Clique aqui para acessar</strong></a>
 </p>
 
-<h2 align="center">🎯 Objetivo</h2>
+<h2 align="start">🎯 Objetivo</h2>
 
-<p align="center">
+<p align="start">
   Ofereço serviços como freelancer para empresas e pessoas físicas, entregando códigos <strong>visuais, leves e brutais</strong> no Front-End e Back-end.
 </p>
 
-<h2 align="center">💼 Projetos Relevantes</h2>
+<h2 align="start">💼 Projetos Relevantes</h2>
 
-<ul align="center">
+<ul align="start">
   <li><strong>Mathrionette:</strong> Calculadora de funções de 1º, 2º e 3º grau.</li>
   <li><strong>DEV Engine JS:</strong> Biblioteca JavaScript customizada para desenvolvedores.</li>
   <li><strong>Site do TCC:</strong> Landing page interativa com foco em experiência de usuário.</li>
