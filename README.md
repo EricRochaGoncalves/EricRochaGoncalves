@@ -52,7 +52,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricRochaGoncalves&layout=compact&langs_count=10&theme=dark&hide_border=false&card_width=460" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EricRochaGoncalves&layout=compact&langs_count=10&theme=dark&hide_border=false&card_width=465" />
 </p>
 
 
