@@ -1,7 +1,7 @@
 
 
 
- <h1 align="center"> Eric R. Gonçalves, software developer </h1>
+ <h1 align="start"> Eric R. Gonçalves, software developer </h1>
 
 <p align="start">
   <strong>E-mail:</strong> ericrochagoncalves59@gmail.com<br>
@@ -35,6 +35,7 @@
 
 <p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://img.shields.io/badge/Render-00FF7F?style=for-the-badge&logo=render&logoColor=black">
@@ -46,6 +47,10 @@
 <p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: brightness(0) invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+
+
 
 
 </p>
