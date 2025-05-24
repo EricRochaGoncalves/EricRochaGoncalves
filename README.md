@@ -22,6 +22,15 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
+<h2 align="start">💻 Outras Tecnologias que eu tenho conhecimento sólido</h2>
+
+<p align="start">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+</p>
+
 <h2 align="start">🛠️ Ferramentas em campo</h2>
 
 <p align="start">
@@ -42,14 +51,7 @@
 </p>
 
 
-<h2 align="start">💻 Outras Tecnologias que eu tenho conhecimento sólido</h2>
 
-<p align="start">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-
-</p>
 
 <h2 align="start">📈 GitHub Stats</h2>
 
